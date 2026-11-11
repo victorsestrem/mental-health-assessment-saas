@@ -1,4 +1,4 @@
-# Mental Health Assessment SaaS (Genesis for Health) — Case Study
+# Mental Health Assessment SaaS (Genesis for Health): Case Study
 
 > Multi-tenant SaaS I designed and built for **Genesis for Health** to run mental health assessments.
 > **Source code is private.** This repository documents the project; a live walkthrough is available on request.
